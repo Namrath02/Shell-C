@@ -1,6 +1,4 @@
-## OS Assignment 2 - Shell in C:
- Roll Number: 2020101063  
-
+Shell in C :
 ## BUILTIN COMMANDS SUPPORTED
 
 * exit
